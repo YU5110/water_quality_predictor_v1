@@ -1,0 +1,12 @@
+app:
+  title: "污水厂出水水质预测软件 v1"
+  version: "0.1.0"
+model:
+  package_dir: "models"
+ui:
+  default_target: "COD"
+  language: "zh-CN"
+  style: "简洁专业"
+paths:
+  logs_dir: "logs"
+device: "cpu"
