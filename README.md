@@ -1,0 +1,2 @@
+# water_quality_predictor_v1
+基于LSTM模型和污水厂水质数据的出水水质预测软件（v1版）
